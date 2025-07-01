@@ -1,0 +1,16 @@
+C:\Progra_CSharp\Soluc_Proyecto_1\Proyecto_1\bin\Debug\net8.0-windows\Proyecto_1.exe
+C:\Progra_CSharp\Soluc_Proyecto_1\Proyecto_1\bin\Debug\net8.0-windows\Proyecto_1.deps.json
+C:\Progra_CSharp\Soluc_Proyecto_1\Proyecto_1\bin\Debug\net8.0-windows\Proyecto_1.runtimeconfig.json
+C:\Progra_CSharp\Soluc_Proyecto_1\Proyecto_1\bin\Debug\net8.0-windows\Proyecto_1.dll
+C:\Progra_CSharp\Soluc_Proyecto_1\Proyecto_1\bin\Debug\net8.0-windows\Proyecto_1.pdb
+C:\Progra_CSharp\Soluc_Proyecto_1\Proyecto_1\obj\Debug\net8.0-windows\Proyecto_1.Formulario_01.resources
+C:\Progra_CSharp\Soluc_Proyecto_1\Proyecto_1\obj\Debug\net8.0-windows\Proyecto_1.csproj.GenerateResource.cache
+C:\Progra_CSharp\Soluc_Proyecto_1\Proyecto_1\obj\Debug\net8.0-windows\Proyecto_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progra_CSharp\Soluc_Proyecto_1\Proyecto_1\obj\Debug\net8.0-windows\Proyecto_1.AssemblyInfoInputs.cache
+C:\Progra_CSharp\Soluc_Proyecto_1\Proyecto_1\obj\Debug\net8.0-windows\Proyecto_1.AssemblyInfo.cs
+C:\Progra_CSharp\Soluc_Proyecto_1\Proyecto_1\obj\Debug\net8.0-windows\Proyecto_1.csproj.CoreCompileInputs.cache
+C:\Progra_CSharp\Soluc_Proyecto_1\Proyecto_1\obj\Debug\net8.0-windows\Proyecto_1.dll
+C:\Progra_CSharp\Soluc_Proyecto_1\Proyecto_1\obj\Debug\net8.0-windows\refint\Proyecto_1.dll
+C:\Progra_CSharp\Soluc_Proyecto_1\Proyecto_1\obj\Debug\net8.0-windows\Proyecto_1.pdb
+C:\Progra_CSharp\Soluc_Proyecto_1\Proyecto_1\obj\Debug\net8.0-windows\Proyecto_1.genruntimeconfig.cache
+C:\Progra_CSharp\Soluc_Proyecto_1\Proyecto_1\obj\Debug\net8.0-windows\ref\Proyecto_1.dll
